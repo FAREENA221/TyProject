@@ -1,0 +1,27 @@
+
+
+
+.service{
+    display: flex;
+
+  
+}
+.service2{
+    display: flex;
+}
+.CardImg3{
+    height: 16rem;
+    border-radius: 10px;
+}
+.CardImg{
+    height: 20rem;
+    border-radius: 10px;
+}
+.Card1{
+    border-radius: 10px;
+    box-shadow: rgb(189, 189, 189) 4px 6px;
+}
+.CardImg1{
+    height: 27rem;
+    border-radius: 10px;
+}
